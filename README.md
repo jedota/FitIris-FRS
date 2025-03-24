@@ -4,7 +4,7 @@
 ## Tools
 ## Diagram
 ## Step by steps
-## Exammple on Jupyter 
-## Acknoledgements
+## Example on Jupyter 
+## Acknowledgements
 ## Cited
 ## Disclaimer
