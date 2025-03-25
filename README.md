@@ -1,5 +1,5 @@
 # FitIris-FRS
-This repository contains some of the tools employed for the paper and the method developed for the paper: Can Face Recognition Complement the Iris Fitness for Duty Classification?.
+This repository contains some of the tools and the method developed for the paper: Can Face Recognition Complement the Iris Fitness for Duty Classification?.
 ## Introduction
 ## Tools
 - [MagFace-repo](https://github.com/IrvingMeng/MagFace): This is the repository with the MagFace tool used.
