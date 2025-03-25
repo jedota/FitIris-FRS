@@ -7,6 +7,14 @@ This repository contains some of the tools and the method developed for the pape
 ## Diagram
 ![ffd_method_diagram.drawio.png](ffd_method_diagram.drawio.png)
 ## Step by steps
+### FRS
+  1. Feature extraction with FRS (Adaface/Magface)
+  2. Features transformation to dataframe
+  3. Fitness for duty estimation with head
+### EfficientNet-B2
+  1. Fitness for duty estimation with EfficientNet-B2
+### Score fusion
+  1. Max or Mean calculation between scores (FRS and EfficientNet-B2)
 ## Example on Jupyter 
 ## Acknowledgements
 ## Cited
